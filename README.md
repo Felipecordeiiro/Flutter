@@ -1,6 +1,5 @@
 # atv1
 Este projeto é referente a atividade 5 do curso de dev. Mob da instituição IFCE.
-A new Flutter project.
 
 ## Getting Started
 
